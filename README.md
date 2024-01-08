@@ -8,6 +8,8 @@
 ![PyPI](https://img.shields.io/pypi/v/qq-botpy)
 [![BK Pipelines Status](https://api.bkdevops.qq.com/process/api/external/pipelines/projects/qq-guild-open/p-713959939bdc4adca0eea2d4420eef4b/badge?X-DEVOPS-PROJECT-ID=qq-guild-open)](https://devops.woa.com/process/api-html/user/builds/projects/qq-guild-open/pipelines/p-713959939bdc4adca0eea2d4420eef4b/latestFinished?X-DEVOPS-PROJECT-ID=qq-guild-open)
 
+<center>brevityd-qqbot 开发测试</center>
+
 _✨ 基于 [机器人开放平台API](https://bot.q.qq.com/wiki/develop/api/) 实现的机器人框架 ✨_
 
 _✨ 为开发者提供一个易使用、开发效率高的开发框架 ✨_
